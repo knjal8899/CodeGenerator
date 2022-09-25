@@ -1,1 +1,2 @@
 # CodeGenerator
+# QuoteGeneratorApp
